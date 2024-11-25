@@ -9,7 +9,7 @@
 /choccy_windows_amd64.exe
 /choccy_darwin_amd64
 
-
+Choccy.code-workspace
 .idea/
 .DS_Store
 .vscode/
