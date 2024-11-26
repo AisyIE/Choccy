@@ -13,3 +13,4 @@ Choccy.code-workspace
 .idea/
 .DS_Store
 .vscode/
+codeql-*
